@@ -1,0 +1,86 @@
+body{
+    background-color:  #80ff80;
+
+}
+.tabla{
+
+margin: 0px 380px;
+}
+p{
+    text-align: justify; 
+}
+.oszlop1 {
+text-align: center;
+}
+.oszlop2{
+text-align: center;
+}
+.jobbra{
+text-align: right;
+}
+.sarga{
+width: 70px;
+height: 300px;
+background-color: #ffff00;
+}
+.kistabla{
+width: 100%;
+border: none;
+}
+.pulik{
+padding-bottom: 2200px;
+}
+#tortenete{
+color:  #ffff00;
+}
+#kulleme{
+    color:  #ffff00;
+}
+#szinei{
+    color:  #ffff00;
+}
+#jelleme{
+    color:  #ffff00;
+}
+.nagybetus{
+text-transform: capitalize;
+text-transform: uppercase;
+}
+.kozepre{
+text-align: center;
+}
+.kep{
+    float: center;
+    width: 60%;
+    height: 60%;
+}
+#meretei{
+    color:  #ffff00;
+    border-bottom: 3px solid #ffff00;
+}
+#rokonfajtak{
+    color:  #ffff00;
+    border-bottom: 1px solid #ffff00;
+}
+#hires{
+    color:  #ffff00;
+    border-bottom: 3px solid #ffff00;
+
+}
+.jobbkep{
+
+height: 100px;
+float: right;
+padding-left: 15px;
+
+}
+hr{
+    color: #ffff00;
+    width: 2px;
+    border: none;
+}
+a{
+    color:    #7a7a52;
+    text-decoration: none;
+}
+/* .table tr td p{
